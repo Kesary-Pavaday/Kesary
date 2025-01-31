@@ -1,4 +1,5 @@
 ## Hi there 👋
+Passionnée par les nouvelles technologies, j’ai transformé un licenciement en opportunité pour me reconvertir dans le numérique. Titulaire d’un DUT Informatique et d’une Licence Pro Réseaux & Télécoms, je continue d’explorer et d’apprendre chaque jour ! 🚀
 
 <!--
 **Kesary-Pavaday/Kesary-Pavaday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
